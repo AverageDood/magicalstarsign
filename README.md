@@ -1,1 +1,1 @@
-"# magicalstarsign.github.io" 
+magicalstarsign.github.io
